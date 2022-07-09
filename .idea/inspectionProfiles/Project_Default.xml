@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnreachableCodeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="handlers.forming" />
+          <option value="handlers.users.menu.k" />
+          <option value="newsapi.NewsApiClient" />
+          <option value="password_generator.password_generator.urls.*" />
+          <option value="personal_portfolio_project.personal_portfolio.urls.portfolio" />
+          <option value="recipes_project.recipes.urls.component" />
+          <option value="recipes_project.recipes.urls.blog" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
